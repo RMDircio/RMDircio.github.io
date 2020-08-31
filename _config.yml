@@ -13,8 +13,8 @@ description: Collection of Projects
 # url is the the website domain URL without a trailing slash
 url: "http://www.rmdircio.com"
 
-# baseurl should be an empty string
-baseurl: "https://rmdircio.github.io/"
+# baseurl should be an empty string 
+baseurl: ""
 
 # --- Navigation bar options --- #
 
