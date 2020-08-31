@@ -14,7 +14,7 @@ description: Collection of Projects
 url: "http://www.rmdircio.com/"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: "https://rmdircio.github.io/"
 
 # --- Navigation bar options --- #
 
